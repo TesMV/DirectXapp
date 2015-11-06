@@ -1,0 +1,15 @@
+c:\users\михаил\documents\visual studio 2015\Projects\DirectXApp\DirectXApp\bin\Debug\DirectXApp.exe.config
+c:\users\михаил\documents\visual studio 2015\Projects\DirectXApp\DirectXApp\obj\Debug\DirectXApp.Properties.Resources.resources
+c:\users\михаил\documents\visual studio 2015\Projects\DirectXApp\DirectXApp\obj\Debug\DirectXApp.csproj.GenerateResource.Cache
+c:\users\михаил\documents\visual studio 2015\Projects\DirectXApp\DirectXApp\bin\Debug\DirectXApp.exe
+c:\users\михаил\documents\visual studio 2015\Projects\DirectXApp\DirectXApp\bin\Debug\DirectXApp.pdb
+c:\users\михаил\documents\visual studio 2015\Projects\DirectXApp\DirectXApp\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\михаил\documents\visual studio 2015\Projects\DirectXApp\DirectXApp\bin\Debug\SharpDX.dll
+c:\users\михаил\documents\visual studio 2015\Projects\DirectXApp\DirectXApp\bin\Debug\SharpDX.xml
+c:\users\михаил\documents\visual studio 2015\Projects\DirectXApp\DirectXApp\bin\Debug\SharpDX.Direct3D9.xml
+c:\users\михаил\documents\visual studio 2015\Projects\DirectXApp\DirectXApp\obj\Debug\DirectXApp.exe
+c:\users\михаил\documents\visual studio 2015\Projects\DirectXApp\DirectXApp\obj\Debug\DirectXApp.pdb
+c:\users\михаил\documents\visual studio 2015\Projects\DirectXApp\DirectXApp\obj\Debug\DirectXApp.Form1.resources
+c:\users\михаил\documents\visual studio 2015\Projects\DirectXApp\DirectXApp\bin\Debug\WFF GenericHID Communication Library.dll
+c:\users\михаил\documents\visual studio 2015\Projects\DirectXApp\DirectXApp\bin\Debug\WFF GenericHID Communication Library.pdb
+C:\Users\Михаил\Documents\Visual Studio 2015\Projects\DirectXApp\DirectXApp\obj\Debug\DirectXApp.csprojResolveAssemblyReference.cache
